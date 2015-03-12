@@ -1,0 +1,11 @@
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.dll.config
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.XML
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.dll
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.pdb
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.dll.CodeAnalysisLog.xml
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\Bin\Debug\Net35\AlphaFS.dll.lastcodeanalysissucceeded
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\AlphaFS\obj\Net35 Debug\AlphaFS.csprojResolveAssemblyReference.cache
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\AlphaFS\obj\Net35 Debug\Alphaleonis.Win32.Resources.resources
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\AlphaFS\obj\Net35 Debug\AlphaFS.csproj.GenerateResource.Cache
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\AlphaFS\obj\Net35 Debug\AlphaFS.dll
+C:\Users\Rajiv\Downloads\AlphaFS-develop\AlphaFS-develop\AlphaFS\obj\Net35 Debug\AlphaFS.pdb
